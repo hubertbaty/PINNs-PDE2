@@ -1,1 +1,1 @@
-These Python files correspond to the publication in MNRAS by Baty & Vigon (2024)
+These Python files correspond to the publication in MNRAS 527, 2575–2584 (2024) by Baty & Vigon
